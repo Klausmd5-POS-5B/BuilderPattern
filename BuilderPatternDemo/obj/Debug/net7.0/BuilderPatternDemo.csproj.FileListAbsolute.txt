@@ -1,0 +1,15 @@
+/home/klaus/Downloads/school/pos/BuilderPatternDemo/BuilderPatternDemo/bin/Debug/net7.0/BuilderPatternDemo
+/home/klaus/Downloads/school/pos/BuilderPatternDemo/BuilderPatternDemo/bin/Debug/net7.0/BuilderPatternDemo.deps.json
+/home/klaus/Downloads/school/pos/BuilderPatternDemo/BuilderPatternDemo/bin/Debug/net7.0/BuilderPatternDemo.runtimeconfig.json
+/home/klaus/Downloads/school/pos/BuilderPatternDemo/BuilderPatternDemo/bin/Debug/net7.0/BuilderPatternDemo.dll
+/home/klaus/Downloads/school/pos/BuilderPatternDemo/BuilderPatternDemo/bin/Debug/net7.0/BuilderPatternDemo.pdb
+/home/klaus/Downloads/school/pos/BuilderPatternDemo/BuilderPatternDemo/obj/Debug/net7.0/BuilderPatternDemo.csproj.AssemblyReference.cache
+/home/klaus/Downloads/school/pos/BuilderPatternDemo/BuilderPatternDemo/obj/Debug/net7.0/BuilderPatternDemo.GeneratedMSBuildEditorConfig.editorconfig
+/home/klaus/Downloads/school/pos/BuilderPatternDemo/BuilderPatternDemo/obj/Debug/net7.0/BuilderPatternDemo.AssemblyInfoInputs.cache
+/home/klaus/Downloads/school/pos/BuilderPatternDemo/BuilderPatternDemo/obj/Debug/net7.0/BuilderPatternDemo.AssemblyInfo.cs
+/home/klaus/Downloads/school/pos/BuilderPatternDemo/BuilderPatternDemo/obj/Debug/net7.0/BuilderPatternDemo.csproj.CoreCompileInputs.cache
+/home/klaus/Downloads/school/pos/BuilderPatternDemo/BuilderPatternDemo/obj/Debug/net7.0/BuilderPatternDemo.dll
+/home/klaus/Downloads/school/pos/BuilderPatternDemo/BuilderPatternDemo/obj/Debug/net7.0/refint/BuilderPatternDemo.dll
+/home/klaus/Downloads/school/pos/BuilderPatternDemo/BuilderPatternDemo/obj/Debug/net7.0/BuilderPatternDemo.pdb
+/home/klaus/Downloads/school/pos/BuilderPatternDemo/BuilderPatternDemo/obj/Debug/net7.0/BuilderPatternDemo.genruntimeconfig.cache
+/home/klaus/Downloads/school/pos/BuilderPatternDemo/BuilderPatternDemo/obj/Debug/net7.0/ref/BuilderPatternDemo.dll
